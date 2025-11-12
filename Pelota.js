@@ -35,7 +35,7 @@ class Pelota{
         circle(this.posx, this.posy, this.diam);
         fill ("#ffffffff");
         strokeWeight(1);
-        circle(this.posx, this.posy, this.diam/3);
+        circle(this.posx, this.posy, this.diam/4);
         
         
     }
